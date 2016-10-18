@@ -1,5 +1,5 @@
 /*/---------------------------------------------------------/*/
-/*/ Craydent LLC uploader-v1.0.1                            /*/
+/*/ Craydent LLC uploader-v1.1.0                            /*/
 /*/ Copyright 2016 (http://craydent.com/about)              /*/
 /*/ Dual licensed under the MIT or GPL Version 2 licenses.  /*/
 /*/ (http://craydent.com/license)                           /*/
